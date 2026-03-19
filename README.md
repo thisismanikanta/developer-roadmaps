@@ -1,4 +1,4 @@
-# 🚀 Developer Roadmaps 2026
+# Developer Roadmaps 2026
 
 A curated collection of **developer roadmaps** to help you become a proficient developer in 2026.  
 Includes **Java Full Stack**, **MERN Stack**, **DevOps**, and **DSA**.
